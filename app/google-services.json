@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130371026147",
+    "firebase_url": "https://parcial2ecosistemas-2df25.firebaseio.com",
+    "project_id": "parcial2ecosistemas-2df25",
+    "storage_bucket": "parcial2ecosistemas-2df25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130371026147:android:dc31c2ebf27cc9d21719d6",
+        "android_client_info": {
+          "package_name": "com.example.parcial2ecosistemasandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130371026147-q3ijljuiopf1gi0jktetjas63oi2f5bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parcial2ecosistemasandroid",
+            "certificate_hash": "d996deea9ba8852db7da219872ae37324a54b718"
+          }
+        },
+        {
+          "client_id": "130371026147-ckkos02av3teqhuicn5ddmng3q2u1kf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MTXkg6TgswYaYJJQ1KMfe606hXzPwzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130371026147-ckkos02av3teqhuicn5ddmng3q2u1kf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
