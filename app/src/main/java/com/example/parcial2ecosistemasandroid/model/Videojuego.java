@@ -7,14 +7,12 @@ public class Videojuego {
     private String nombre;
     private String estudio;
     private String estreno;
-    private int voto;
 
-    public Videojuego(String id, String nombre, String estudio, String estreno, int voto) {
+    public Videojuego(String id, String nombre, String estudio, String estreno) {
         this.id = id;
         this.nombre = nombre;
         this.estudio = estudio;
         this.estreno = estreno;
-        this.voto = voto;
     }
 
     public Videojuego() {
@@ -51,14 +49,6 @@ public class Videojuego {
 
     public void setEstreno(String estreno) {
         this.estreno = estreno;
-    }
-
-    public int getVoto() {
-        return voto;
-    }
-
-    public void setVoto(int voto) {
-        this.voto = voto;
     }
 
     @Override
